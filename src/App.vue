@@ -27,7 +27,7 @@ export default {
   data(){
     return{
       api_key:'insert api key here',
-      url_base:'https://home.openweathermap.org/data/2.5/',
+      url_base:'https://home.openweathermap.org/data',
       query:'',
       weather:{}
     }
